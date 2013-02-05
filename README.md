@@ -7,7 +7,8 @@ https://blogs.oracle.com/ksplice/entry/building_filesystems_the_way_you
 
 Exposes usernames as directories and status messages of friends as files in these directories.
 
-=== Usage
+Usage
+-----
 
 	$ ./twitfs mnt_dir
 	$ ls mnt_dir/
